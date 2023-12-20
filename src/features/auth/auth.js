@@ -4,7 +4,7 @@ import {
   increment,
   incrementAsync,
   selectCount,
-} from './counterSlice';
+} from './authSlice';
 
 
 export default function Counter() {
